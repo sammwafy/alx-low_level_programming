@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - function that prints size of various types of computer it is compiled and run on
+ * main - main function
  *
  * Return: 0 always
  *
