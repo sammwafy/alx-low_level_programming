@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * function prints sentence
+ * main - function prints sentence
  * returns 0 always
  */
 int main(void)
