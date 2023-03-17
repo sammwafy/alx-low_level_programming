@@ -1,8 +1,9 @@
 #include <stdio.h>
-/*
+/**
  * main - function prints sentence
- * returns 0 always
+ * Return: 0 always
  */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
