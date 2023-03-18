@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
-* main - function
-* 
-* Return:0 always
+* main - Print all single digit numbers using only putchar
+*
+* Return: 0 always
 */
+
 int main(void)
 {
 	int digit;
