@@ -1,9 +1,12 @@
 #include <stdio.h>
 
 /**
-* main - function main
+* main - print tebahpla
 * 
-* Return: 0 always */
+* Return: 0 always
+* 
+*/
+
 int main(void)
 {
 	char letter;
