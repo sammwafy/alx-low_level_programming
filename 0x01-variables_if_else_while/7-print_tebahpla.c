@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - print tebahpla
-* 
+* main - Print the reversed alphabet in lowercase letters
+*
 * Return: 0 always
-* 
 */
 
 int main(void)
